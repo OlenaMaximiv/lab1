@@ -1,0 +1,13 @@
+# Compiled binaries
+*.class
+*.jar
+
+# Build output
+target/
+
+# Configuration files
+application.properties
+
+# Database
+universe.db
+universe.iml
